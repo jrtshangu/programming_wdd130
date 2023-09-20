@@ -2,22 +2,24 @@
     margin: 0;
 }
 body{
-    background-color: rgb(30, 90, 110);
+    background-color: rgb(30, 110, 97);
 }
 
 header{
-    background-color: black;
-    color: aliceblue; 
+    background-color: rgb(241, 247, 240);
+    color: rgb(5, 19, 31); 
     text-align: center;
     text-transform: uppercase;  
     letter-spacing: 2px;
     padding: 2%;
+    margin-bottom: 2%;
+    box-shadow: 2px 2px 10px black;
 }
 
 
 main{
     margin: auto;
-    width: 50%;
+    width: 40%;
     
     background-color: aliceblue;
     padding: 2%;
